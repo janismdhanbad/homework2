@@ -19,13 +19,8 @@ h1{
 
 h2{
 	font-size: 32px; 
+	font-weight: bold;
 	
-}
-
-p{
-	font-size: 24px; 
-	padding-bottom: 15px;
-	padding-left: 15px;
 }
 
 img{
@@ -36,6 +31,11 @@ div{
 	min-width: 100px;
 	padding: 20px;
 	border: 3px solid #ffffff;
+}
+p{
+	font-size: 24px; 
+	padding-bottom: 15px;
+	padding-left: 15px;
 }
 
 div.red{
@@ -50,6 +50,7 @@ div.blue{
 	margin-right: 50px;
 	border-width: 0 10px 3px 0;
 }
+
 
 span{
 	text-decoration: underline;
