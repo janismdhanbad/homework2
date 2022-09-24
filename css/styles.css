@@ -1,0 +1,61 @@
+/*Add padding and margin to space out the page.
+Make the font larger too.*/
+body{
+	font-family: Verdana, Arial;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+/*Make the h1 heading bigger with a bold font*/
+h1{
+	font-size: 48px; 
+	color: #0000ff;
+	font-weight: bold;
+	padding: 15px;
+}
+
+
+
+h2{
+	font-size: 32px; 
+	
+}
+
+p{
+	font-size: 24px; 
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+
+img{
+	width: 350px;
+	border: 10px dashed #000000;
+}
+div{
+	min-width: 100px;
+	padding: 20px;
+	border: 3px solid #ffffff;
+}
+
+div.red{
+	background-color: rgba(238, 28, 28, 0.735);
+	text-align: right;
+	margin-left: 50px;
+	border-width: 0 0 3px 10px;
+}
+div.blue{
+	background-color: rgba(28, 214, 234, 0.735);
+	text-align: left;
+	margin-right: 50px;
+	border-width: 0 10px 3px 0;
+}
+
+span{
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+footer{
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
