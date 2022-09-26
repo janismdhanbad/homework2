@@ -1,5 +1,4 @@
-/*Add padding and margin to space out the page.
-Make the font larger too.*/
+
 body{
 	font-family: Verdana, Arial;
 	margin-top: 25px;
@@ -8,7 +7,7 @@ body{
 	margin-bottom: 0;
 }
 
-/*Make the h1 heading bigger with a bold font*/
+
 h1{
 	font-size: 48px; 
 	color: #0000ff;
