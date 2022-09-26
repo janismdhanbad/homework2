@@ -39,15 +39,15 @@ div{
 }
 
 div.red{
-	background-color: rgba(238, 28, 28, 0.735);
+	background-color:#d5181ec3;
 	text-align: right;
 	margin-left: 50px;
-	border-bottom-width: 10px;
-	border-left-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 10px;
 
 }
 div.blue{
-	background-color: rgba(28, 214, 234, 0.735);
+	background-color:  #13c9e9;
 	text-align: left;
 	margin-right: 50px;
 	border-right-width: 10px;
