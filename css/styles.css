@@ -42,7 +42,7 @@ div.red{
 	background-color: rgba(238, 28, 28, 0.735);
 	text-align: right;
 	margin-left: 50px;
-	border-left-width: 10px;
+	border-bottom-width: 10px;
 	border-left-width: 3px;
 
 }
